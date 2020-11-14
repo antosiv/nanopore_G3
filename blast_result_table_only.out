@@ -1,0 +1,520 @@
+BLASTN 2.11.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: Nucleotide collection (nt)
+           43,798,648 sequences; 153,900,552,207 total letters
+
+
+
+Query= 1 length=5229416 depth=1.00x circular=true
+
+Length=5229416
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+CP009464.1 Bacillus anthracis strain SK-102, complete genome          5.354e+06  0.0  
+CP010852.1 Bacillus anthracis strain A1144, complete genome           3.793e+06  0.0  
+CP008752.1 Bacillus anthracis strain delta Sterne genome              3.605e+06  0.0  
+CP007666.1 Bacillus anthracis str. Vollum, complete genome            3.300e+06  0.0  
+CP009328.1 Bacillus anthracis strain Vollum 1B, complete genome       3.293e+06  0.0  
+CP009541.1 Bacillus anthracis str. Sterne, complete genome            2.764e+06  0.0  
+CP009476.1 Bacillus anthracis strain Pasteur, complete genome         2.666e+06  0.0  
+CP001215.1 Bacillus anthracis str. CDC 684, complete genome           2.589e+06  0.0  
+CP001970.2 Bacillus anthracis str. A16, complete genome               2.475e+06  0.0  
+CP001974.2 Bacillus anthracis str. A16R, complete genome              2.475e+06  0.0  
+AE017225.1 Bacillus anthracis str. Sterne, complete genome            2.475e+06  0.0  
+CP012723.1 Bacillus anthracis strain PR06, complete genome            2.475e+06  0.0  
+CP012721.1 Bacillus anthracis strain PR02, complete genome            2.475e+06  0.0  
+CP012722.1 Bacillus anthracis strain PR05, complete genome            2.475e+06  0.0  
+CP012720.1 Bacillus anthracis strain PR01, complete genome            2.475e+06  0.0  
+CP012730.1 Bacillus anthracis strain Parent1, complete genome         2.475e+06  0.0  
+CP022044.1 Bacillus anthracis strain FDAARGOS_341, complete genome    2.474e+06  0.0  
+CP019588.1 Bacillus anthracis strain SPV842_15, complete genome       2.474e+06  0.0  
+CP009598.1 Bacillus anthracis str. V770-NP-1R, complete genome        2.247e+06  0.0  
+CP001598.1 Bacillus anthracis str. A0248, complete genome             2.232e+06  0.0  
+AE017334.2 Bacillus anthracis str. 'Ames Ancestor', complete genome   2.232e+06  0.0  
+CP012519.1 Bacillus anthracis strain Larissa, complete genome         2.232e+06  0.0  
+AE016879.1 Bacillus anthracis str. Ames, complete genome              2.232e+06  0.0  
+AP014833.1 Bacillus anthracis DNA, nearly complete genome, strain...  2.124e+06  0.0  
+CP012727.1 Bacillus anthracis strain PR09-4, complete genome          2.119e+06  0.0  
+CP012725.1 Bacillus anthracis strain PR08, complete genome            2.119e+06  0.0  
+CP012729.1 Bacillus anthracis strain Parent2, complete genome         2.119e+06  0.0  
+CP012726.1 Bacillus anthracis strain PR09-1, complete genome          2.119e+06  0.0  
+CP012724.1 Bacillus anthracis strain PR07, complete genome            2.119e+06  0.0  
+CP012728.1 Bacillus anthracis strain PR10-4, complete genome          2.119e+06  0.0  
+CP010322.1 Bacillus anthracis strain Canadian_bison, complete genome  1.990e+06  0.0  
+CP009544.1 Bacillus anthracis strain BA1015, complete genome          1.990e+06  0.0  
+CP010792.1 Bacillus anthracis strain Ames A0462, complete genome      1.989e+06  0.0  
+CP009981.1 Bacillus anthracis strain Ames, complete genome            1.859e+06  0.0  
+CP015779.1 Bacillus anthracis strain Tangail-1, complete genome       1.859e+06  0.0  
+CP009325.1 Bacillus anthracis strain PAK-1, complete genome           1.818e+06  0.0  
+CP019726.1 Bacillus anthracis strain Sterne 34F2 genome               1.696e+06  0.0  
+CP009341.1 Bacillus anthracis strain Ohio ACB, complete genome        1.685e+06  0.0  
+CP009331.1 Bacillus anthracis strain K3, complete genome              1.663e+06  0.0  
+CP014179.1 Bacillus anthracis strain Stendal, complete genome         1.642e+06  0.0  
+CP009700.1 Bacillus anthracis strain BA1035, complete genome          1.623e+06  0.0  
+CP010813.1 Bacillus anthracis strain Pollino sequence                 1.589e+06  0.0  
+CP018903.1 Bacillus anthracis strain Tyrol 4675, complete genome      1.559e+06  0.0  
+CP008853.1 Bacillus anthracis strain Cvac02, complete genome          1.507e+06  0.0  
+CP007704.1 Bacillus anthracis strain BFV genome                       1.326e+06  0.0  
+CP002091.1 Bacillus anthracis str. H9401, complete genome             1.326e+06  0.0  
+CP009697.1 Bacillus anthracis strain RA3, complete genome             1.326e+06  0.0  
+CP008846.1 Bacillus anthracis strain HYU01, complete genome           1.325e+06  0.0  
+CP008854.1 Bacillus anthracis strain Han, complete genome             1.325e+06  0.0  
+CP009315.1 Bacillus anthracis str. Turkey32, complete genome          1.293e+06  0.0  
+CP010342.1 Bacillus anthracis strain A0157 sequence                   1.284e+06  0.0  
+CP009902.1 Bacillus anthracis strain 2002013094, complete genome      1.235e+06  0.0  
+CP006742.1 Bacillus anthracis str. SVA11, complete genome             1.013e+06  0.0  
+CP007618.1 Bacillus anthracis strain 2000031021, complete genome      8.351e+05  0.0  
+CP001283.1 Bacillus cereus AH820, complete genome                     3.871e+05  0.0  
+CP009605.1 Bacillus cereus strain S2-8, complete genome               3.669e+05  0.0  
+CP009596.1 Bacillus cereus strain 3a, complete genome                 3.669e+05  0.0  
+CP018931.1 Bacillus cereus strain ISSFR-3F, complete genome           3.176e+05  0.0  
+CP018935.1 Bacillus cereus strain JEM-2, complete genome              3.176e+05  0.0  
+CP018933.1 Bacillus cereus strain ISSFR-9F, complete genome           3.176e+05  0.0  
+CP009720.1 Bacillus thuringiensis strain HD682, complete genome       3.064e+05  0.0  
+CP000001.1 Bacillus cereus E33L, complete genome                      2.977e+05  0.0  
+CP009641.1 Bacillus cereus 03BB108, complete genome                   2.886e+05  0.0  
+CP009300.1 Bacillus cereus D17, complete genome                       2.745e+05  0.0  
+CP003187.1 Bacillus cereus F837/76, complete genome                   2.741e+05  0.0  
+CP009600.1 Bacillus thuringiensis strain HD571, complete genome       2.736e+05  0.0  
+CP000485.1 Bacillus thuringiensis str. Al Hakam, complete genome      2.736e+05  0.0  
+CP009335.1 Bacillus thuringiensis strain HD1011, complete genome      2.669e+05  0.0  
+CP001407.1 Bacillus cereus 03BB102, complete genome                   2.525e+05  0.0  
+CP009318.1 Bacillus cereus 03BB102, complete genome                   2.525e+05  0.0  
+AE017355.1 Bacillus thuringiensis serovar konkukian str. 97-27, c...  2.219e+05  0.0  
+CP010088.1 Bacillus thuringiensis strain 97-27, complete genome       2.219e+05  0.0  
+CP001746.1 Bacillus cereus biovar anthracis str. CI, complete genome  2.178e+05  0.0  
+CP009968.1 Bacillus cereus E33L, complete genome                      2.145e+05  0.0  
+AE017194.1 Bacillus cereus ATCC 10987, complete genome                2.048e+05  0.0  
+CP015589.1 Bacillus cereus strain AR156, complete genome              1.914e+05  0.0  
+CP020723.1 Bacillus thuringiensis strain BM-BT15426, complete genome  1.863e+05  0.0  
+CP007512.1 Bacillus bombysepticus str. Wang, complete genome          1.623e+05  0.0  
+CP004069.1 Bacillus thuringiensis serovar kurstaki str. HD73, com...  1.623e+05  0.0  
+CP019230.1 Bacillus thuringiensis strain YGD22-03, complete genome    1.622e+05  0.0  
+CP004858.1 Bacillus thuringiensis serovar kurstaki str. YBT-1520,...  1.622e+05  0.0  
+CP010106.1 Bacillus thuringiensis serovar indiana strain HD521, c...  1.622e+05  0.0  
+CP022445.1 Bacillus cereus strain C1L, complete genome                1.585e+05  0.0  
+CP003752.1 Bacillus thuringiensis HD-771, complete genome             1.578e+05  0.0  
+CP015176.1 Bacillus thuringiensis serovar alesti strain BGSC 4C1,...  1.578e+05  0.0  
+CP010577.1 Bacillus thuringiensis serovar morrisoni strain BGSC 4...  1.578e+05  0.0  
+CP001186.1 Bacillus cereus G9842, complete genome                     1.577e+05  0.0  
+CP000227.1 Bacillus cereus Q1, complete genome                        1.498e+05  0.0  
+AP007209.1 Bacillus cereus NC7401 genomic DNA, complete genome        1.494e+05  0.0  
+CP001177.1 Bacillus cereus AH187, complete genome                     1.494e+05  0.0  
+CP016316.1 Bacillus cereus strain M3, complete sequence               1.473e+05  0.0  
+CP006863.1 Bacillus toyonensis BCT-7112, complete genome              1.455e+05  0.0  
+CP003687.1 Bacillus thuringiensis MC28, complete genome               1.400e+05  0.0  
+CP002508.1 Bacillus thuringiensis serovar finitimus YBT-020, comp...  1.388e+05  0.0  
+CP009628.1 Bacillus cereus ATCC 4342, complete genome                 1.374e+05  0.0  
+CP009590.1 Bacillus cereus G9241, complete genome                     1.372e+05  0.0  
+CP009369.1 Bacillus cereus strain FM1, complete genome                1.371e+05  0.0  
+CP020937.1 Bacillus cereus strain BC-AK genomic sequence              1.371e+05  0.0  
+CP009941.1 Bacillus cereus strain 03BB87, complete genome             1.370e+05  0.0  
+CP013000.1 Bacillus thuringiensis strain XL6, complete genome         1.345e+05  0.0  
+CP017016.1 Bacillus sp. ABP14, complete genome                        1.335e+05  0.0  
+CP003747.1 Bacillus cereus FRI-35, complete genome                    1.293e+05  0.0  
+CP013274.1 Bacillus thuringiensis strain CTC, complete genome         1.291e+05  0.0  
+CP020437.1 Bacillus sp. FDAARGOS_235, complete genome                 1.235e+05  0.0  
+AP014864.1 Bacillus thuringiensis serovar tolworthi DNA, complete...  1.189e+05  0.0  
+CP011145.1 Bacillus cereus strain FORC_013, complete sequence         1.188e+05  0.0  
+CP016194.1 Bacillus thuringiensis serovar coreanensis strain ST7,...  1.185e+05  0.0  
+CP016595.1 Bacillus cereus strain K8, complete sequence               1.184e+05  0.0  
+CP011155.1 Bacillus cereus strain HN001, complete genome              1.184e+05  0.0  
+CP017234.1 Bacillus cereus strain FORC_048, complete genome           1.183e+05  0.0  
+CP001176.1 Bacillus cereus B4264, complete genome                     1.183e+05  0.0  
+CP009686.1 Bacillus cereus strain FORC_005, complete genome           1.183e+05  0.0  
+CP014486.1 Bacillus cereus strain FORC021, complete genome            1.182e+05  0.0  
+CP016315.1 Bacillus cereus strain D12_2, complete genome              1.182e+05  0.0  
+CP020803.1 Bacillus cereus strain 25 genome                           1.181e+05  0.0  
+CP012691.1 Bacillus cereus strain FORC_024, complete genome           1.181e+05  0.0  
+CP013275.1 Bacillus thuringiensis serovar israelensis strain AM65...  1.173e+05  0.0  
+CP003763.1 Bacillus thuringiensis HD-789, complete genome             1.173e+05  0.0  
+CP014282.1 Bacillus thuringiensis strain Bt185, complete genome       1.171e+05  0.0  
+CP016285.1 Bacillus sp. B25(2016b) genome                             1.171e+05  0.0  
+CP014847.1 Bacillus thuringiensis strain HD12, complete sequence      1.171e+05  0.0  
+CP020002.1 Bacillus thuringiensis strain L-7601, complete genome      1.170e+05  0.0  
+CP015727.1 Bacillus cereus strain A1, complete genome                 1.168e+05  0.0  
+CP022345.1 Bacillus thuringiensis strain c25, complete genome         1.168e+05  0.0  
+CP016588.1 Bacillus thuringiensis strain KNU-07, complete genome      1.168e+05  0.0  
+CP001903.1 Bacillus thuringiensis BMB171, complete genome             1.166e+05  0.0  
+CP016360.1 Bacillus cereus strain M13, complete genome                1.166e+05  0.0  
+CP017577.1 Bacillus thuringiensis strain SCG04-02, complete genome    1.166e+05  0.0  
+AE016877.1 Bacillus cereus ATCC 14579, complete genome                1.164e+05  0.0  
+CP011153.1 Bacillus cereus strain CMCC P0011, complete genome         1.162e+05  0.0  
+CP011151.1 Bacillus cereus strain CMCC P0021, complete genome         1.162e+05  0.0  
+CP012483.1 Bacillus cereus strain NJ-W, complete genome               1.161e+05  0.0  
+CP015350.1 Bacillus thuringiensis strain MYBT18246, complete genome   1.160e+05  0.0  
+CP015250.1 Bacillus thuringiensis Bt18247, complete genome            1.160e+05  0.0  
+CP017060.1 Bacillus cereus strain FORC_047, complete genome           1.160e+05  0.0  
+CP008712.1 Bacillus cereus strain FT9, complete genome                1.133e+05  0.0  
+CP009692.1 Bacillus mycoides strain ATCC 6462, complete genome        1.091e+05  0.0  
+CP000903.1 Bacillus weihenstephanensis KBAB4, complete genome         1.091e+05  0.0  
+CP020743.1 Bacillus mycoides strain Gnyt1, complete genome            1.090e+05  0.0  
+CP015150.1 Bacillus thuringiensis strain Bc601, complete genome       98889      0.0  
+CP013055.1 Bacillus thuringiensis strain YWC2-8, complete genome      98889      0.0  
+CP011349.1 Bacillus thuringiensis strain YC-10, complete genome       98883      0.0  
+CP010005.1 Bacillus thuringiensis serovar kurstaki strain HD 1, c...  98874      0.0  
+CP003889.1 Bacillus thuringiensis Bt407, complete genome              98806      0.0  
+CP007607.1 Bacillus thuringiensis serovar kurstaki str. YBT-1520,...  98693      0.0  
+CP012099.1 Bacillus thuringiensis strain HS18-1, complete genome      97740      0.0  
+CP001907.1 Bacillus thuringiensis serovar chinensis CT-43, comple...  96106      0.0  
+CP005935.1 Bacillus thuringiensis YBT-1518, complete genome           96089      0.0  
+CP004123.1 Bacillus thuringiensis serovar thuringiensis str. IS50...  96084      0.0  
+CP009351.1 Bacillus thuringiensis HD1002, complete genome             94878      0.0  
+CP010089.1 Bacillus thuringiensis serovar galleriae strain HD-29,...  90342      0.0  
+CP021061.1 Bacillus thuringiensis strain ATCC 10792, complete genome  90337      0.0  
+CP020804.1 Bacillus cereus strain 29 genome                           90019      0.0  
+CP009746.1 Bacillus weihenstephanensis strain WSBC 10204, complet...  89432      0.0  
+CP004870.1 Bacillus thuringiensis serovar kurstaki str. HD-1, com...  73700      0.0  
+CP009651.1 Bacillus thuringiensis strain Al Hakam, complete genome    62465      0.0  
+CP007626.1 Bacillus mycoides strain 219298, complete genome           62465      0.0  
+CP000764.1 Bacillus cytotoxicus NVH 391-98, complete genome           59618      0.0  
+KX227760.1 Bacillus phage PfEFR-5, complete genome                    24598      0.0  
+KX227757.1 Bacillus phage PfEFR-4, complete genome                    24598      0.0  
+KT725776.1 Bacillus phage vB_BceS-MY192, partial genome               24592      0.0  
+CP016317.1 Bacillus cereus strain M3 plasmid pBCM301, complete se...  21108      0.0  
+AP007210.1 Bacillus cereus NC7401 plasmid pNCcld DNA, complete se...  20144      0.0  
+CP001179.1 Bacillus cereus AH187 plasmid pAH187_270, complete seq...  20144      0.0  
+DQ889676.1 Bacillus cereus strain AH187 plasmid pCER270, complete...  20144      0.0  
+CP009606.1 Bacillus cereus strain S2-8 plasmid pBFR_2, complete s...  19732      0.0  
+CP009595.1 Bacillus cereus strain 3a plasmid pBFC_3, complete seq...  19732      0.0  
+CP001166.1 Bacillus cereus H3081.97 plasmid pH308197_258, complet...  19704      0.0  
+CP001904.1 Bacillus thuringiensis BMB171 plasmid pBMB171, complet...  19621      0.0  
+CP000228.1 Bacillus cereus Q1 plasmid pBc239, complete sequence       19538      0.0  
+CP003748.1 Bacillus cereus FRI-35 plasmid p01, complete sequence      19475      0.0  
+CP009368.1 Bacillus cereus strain FM1 plasmid, complete sequence      17893      0.0  
+CP012100.1 Bacillus thuringiensis strain HS18-1 plasmid pHS18-1, ...  17359      0.0  
+CP022346.1 Bacillus thuringiensis strain c25 plasmid unnamed1, co...  17302      0.0  
+CP003694.1 Bacillus thuringiensis MC28 plasmid pMC429, complete s...  16809      0.0  
+CP016196.1 Bacillus thuringiensis serovar coreanensis strain ST7 ...  16423      0.0  
+AY129554.2 Bacillus mycoides isolate SIN division cell wall gene ...  16041      0.0  
+CP011156.1 Bacillus cereus strain HN001 plasmid pRML01, complete ...  15817      0.0  
+CP009967.1 Bacillus cereus E33L plasmid pBCO_1, complete sequence     13895      0.0  
+CP000040.1 Bacillus cereus E33L plasmid pE33L466, complete sequence   13895      0.0  
+AY224388.1 Bacillus cereus strain BGSC 6A5 rrnM operon, complete ...  13828      0.0  
+AY224386.1 Bacillus cereus strain BGSC 6A5 rrnK operon, complete ...  13730      0.0  
+AY224387.1 Bacillus cereus strain BGSC 6A5 rrnL operon, complete ...  13686      0.0  
+AY224382.1 Bacillus cereus strain BGSC 6A5 rrnE operon, complete ...  12899      0.0  
+AY224384.1 Bacillus cereus strain BGSC 6A5 rrnG and rrnH operons,...  12321      0.0  
+AY224383.1 Bacillus cereus strain BGSC 6A5 rrnF operon, complete ...  12137      0.0  
+AY224379.1 Bacillus cereus strain BGSC 6A5 rrnA operon, complete ...  11740      0.0  
+CP015592.1 Bacillus cereus strain AR156 plasmid pAR460, complete ...  11616      0.0  
+AY224380.1 Bacillus cereus strain BGSC 6A5 rrnB operon, complete ...  11232      0.0  
+AY129555.2 Bacillus mycoides isolate DX division cell wall gene c...  10560      0.0  
+AY224381.1 Bacillus cereus strain BGSC 6A5 rrnC and rrnD operons,...  10491      0.0  
+AJ010111.1 Bacillus cereus pycA, ctaA, ctaB and ctaC genes, partial   10366      0.0  
+CP009591.1 Bacillus cereus G9241 plasmid pBC210, complete sequence    9886       0.0  
+CP009940.1 Bacillus cereus strain 03BB87 plasmid pBCX01, complete...  9886       0.0  
+DQ889679.1 Bacillus cereus strain G9241 plasmid pBC210, complete ...  9886       0.0  
+AB525763.2 Bacillus cereus DNA, polyhydroxyalkanoate synthesis ge...  9873       0.0  
+CP014840.1 Bacillus subtilis subsp. globigii strain ATCC 49760, c...  9321       0.0  
+CP010778.1 Bacillus atrophaeus strain NRS 1221A, complete genome      9321       0.0  
+CP007640.1 Bacillus atrophaeus subsp. globigii strain BSS genome      9321       0.0  
+CP002207.1 Bacillus atrophaeus 1942, complete genome                  9321       0.0  
+CP021500.1 Bacillus atrophaeus strain SRCM101359, complete genome     9304       0.0  
+CP011802.1 Bacillus atrophaeus UCMB-5137 genome                       9287       0.0  
+AY224385.1 Bacillus cereus strain BGSC 6A5 rrnI and rrnJ operons,...  9188       0.0  
+AF305387.1 Bacillus thuringiensis oligopeptide permease operon, c...  9140       0.0  
+AJ007788.1 Bacillus cereus ilvD (partial), ilvA, capA, bc299d, bc...  9094       0.0  
+DQ000291.1 Bacillus thuringiensis strain R1 PhaP (phaP), PhaQ (ph...  8623       0.0  
+EU009521.1 Bacillus thuringiensis serovar kurstaki gamma-aminobut...  8043       0.0  
+X98455.1 B.cereus orf1 and snf2 gene                                  7969       0.0  
+AJ243712.1 Bacillus cereus yvfR (partial), yvfS, yvfT, yvfU, nprB...  7912       0.0  
+CP016020.1 Bacillus sp. Alg07, complete genome                        7901       0.0  
+CP009650.1 Bacillus thuringiensis strain Al Hakam plasmid pBTZ_1,...  7644       0.0  
+CP007625.1 Bacillus mycoides strain 219298 plasmid, complete sequ...  7644       0.0  
+DQ889677.1 Bacillus cereus strain AH820 plasmid pPER272, complete...  7539       0.0  
+CP016361.1 Bacillus cereus strain M13 plasmid pBCM1301, complete ...  7516       0.0  
+CP015506.1 Bacillus oceanisediminis 2691, complete genome             7439       0.0  
+X99724.1 B.anthracis eag gene                                         7295       0.0  
+DQ153257.1 Bacillus cereus strain NVH 0075-95 NheA (nheA), NheB (...  7023       0.0  
+CP015607.1 Bacillus safensis strain U14-5, complete genome            6892       0.0  
+CP014283.1 Bacillus thuringiensis strain Bt185 plasmid pBT1850636...  6868       0.0  
+CP010075.1 Bacillus sp. WP8, complete genome                          6848       0.0  
+JQ687535.1 Bacillus atrophaeus C89 nonribosomal peptide synthetas...  6809       0.0  
+AY331151.1 Bacillus thuringiensis PhaP (phaP), PhaQ (phaQ), PhaR ...  6800       0.0  
+EF410610.1 Synthetic construct Bacillus anthracis clone FLH248927...  6789       0.0  
+CP022446.1 Bacillus cereus strain C1L plasmid pC1L1, complete seq...  6754       0.0  
+AP014865.1 Bacillus thuringiensis serovar tolworthi plasmid pKK1 ...  6752       0.0  
+EF411030.1 Synthetic construct Bacillus anthracis clone FLH248925...  6745       0.0  
+CP016589.1 Bacillus thuringiensis strain KNU-07 plasmid pBTKNU07-...  6698       0.0  
+CP010090.1 Bacillus thuringiensis serovar galleriae strain HD-29 ...  6652       0.0  
+Y19005.2 Bacillus cereus non-haemolytic enterotoxin operon (nheAB...  6637       0.0  
+EF410869.1 Synthetic construct Bacillus anthracis clone FLH248923...  6612       0.0  
+EU093872.1 Synthetic construct Bacillus anthracis clone FLH263088...  6571       0.0  
+CP011008.1 Bacillus simplex strain SH-B26, complete genome            6565       0.0  
+CP011154.1 Bacillus cereus strain CMCC P0011 plasmid pRML05, comp...  6538       0.0  
+CP011152.1 Bacillus cereus strain CMCC P0021 plasmid pRML04, comp...  6538       0.0  
+EF410870.1 Synthetic construct Bacillus anthracis clone FLH248917...  6516       0.0  
+EF410885.1 Synthetic construct Bacillus anthracis clone FLH248915...  6512       0.0  
+FJ430564.1 Bacillus cereus strain UW85 zwittermicin A biosyntheti...  6493       0.0  
+EF410334.1 Synthetic construct Bacillus anthracis clone FLH248870...  6490       0.0  
+CP021062.1 Bacillus thuringiensis strain ATCC 10792 plasmid poh1,...  6466       0.0  
+CP004135.1 Bacillus thuringiensis serovar thuringiensis str. IS50...  6466       0.0  
+Z36946.1 B.anthracis sap gene encoding S-layer protein                6375       0.0  
+EU093779.1 Synthetic construct Bacillus anthracis clone FLH263077...  6362       0.0  
+AJ249463.1 Bacillus anthracis csaAB operon                            6355       0.0  
+EF411005.1 Synthetic construct Bacillus anthracis clone FLH248912...  6274       0.0  
+DQ153259.1 Bacillus weihenstephanensis strain WSBC 10204 NheA (nh...  6213       0.0  
+DQ153261.1 Bacillus weihenstephanensis strain WSBC 10394 NheA (nh...  6167       0.0  
+EF410707.1 Synthetic construct Bacillus anthracis clone FLH248866...  6133       0.0  
+EU043131.1 Bacillus thuringiensis serovar pakistani strain HD-395...  6056       0.0  
+AY835995.1 Bacillus cereus isolate A6 non-hemolytic enterotoxin A...  6024       0.0  
+AB077026.1 Bacillus sp. INT005 phaR, phaB, phaC genes for PHA syn...  6023       0.0  
+GU266555.1 Bacillus thuringiensis strain H67 S-layer protein (slp...  5989       0.0  
+DQ153258.1 Bacillus weihenstephanensis strain NVH 453-92 NheA (nh...  5989       0.0  
+EU093501.1 Synthetic construct Bacillus anthracis clone FLH255663...  5897       0.0  
+EF410851.1 Synthetic construct Bacillus anthracis clone FLH248910...  5890       0.0  
+Y09212.1 B.cereus partial gltT, aspA and partial maoX genes           5882       0.0  
+AF182371.1 Bacillus anthracis germination operon, partial sequence    5882       0.0  
+EF410655.1 Synthetic construct Bacillus anthracis clone FLH248862...  5847       0.0  
+X89230.1 B.anthracis DNA for rpoC gene                                5821       0.0  
+AJ243711.1 Bacillus cereus cwh, sfp and plcA (partial) genes and ...  5729       0.0  
+EU093825.1 Synthetic construct Bacillus anthracis clone FLH263081...  5725       0.0  
+CP004137.1 Bacillus thuringiensis serovar thuringiensis str. IS50...  5707       0.0  
+EU093755.1 Synthetic construct Bacillus anthracis clone FLH263076...  5692       0.0  
+CP007513.1 Bacillus bombysepticus plasmid pBb, complete genome        5683       0.0  
+CP014852.1 Bacillus thuringiensis strain HD12 plasmid pHD120161, ...  5659       0.0  
+EU093688.1 Synthetic construct Bacillus anthracis clone FLH263069...  5620       0.0  
+CP020005.1 Bacillus thuringiensis strain L-7601 plasmid unnamed3,...  5500       0.0  
+JQ728640.1 Bacillus thuringiensis serovar poloniensis strain IEBC...  5485       0.0  
+AY460125.1 Bacillus thuringiensis strain CTC S-layer protein (ctc...  5483       0.0  
+AJ012290.1 Bacillus thuringiensis ctc gene                            5472       0.0  
+X94448.1 B.cereus 23S rDNA and 16S-23S spacer region                  5450       0.0  
+AF287346.1 Bacillus thuringiensis regulator SinR (sinR), regulato...  5446       0.0  
+EF410290.1 Synthetic construct Bacillus anthracis clone FLH248858...  5426       0.0  
+GU266554.1 Bacillus thuringiensis strain I13 S-layer protein (slp...  5424       0.0  
+EF410720.1 Synthetic construct Bacillus anthracis clone FLH248856...  5421       0.0  
+AF267734.1 Bacillus anthracis 23S ribosomal RNA gene, complete se...  5397       0.0  
+AF267882.1 Bacillus thuringiensis strain NCTC4042b 23S ribosomal ...  5393       0.0  
+AF267879.1 Bacillus cereus strain T 23S ribosomal RNA gene, compl...  5387       0.0  
+AF267880.1 Bacillus thuringiensis strain B8 23S ribosomal RNA gen...  5385       0.0  
+AF267878.1 Bacillus cereus strain NCTC9620 23S ribosomal RNA gene...  5385       0.0  
+NR_076204.1 Bacillus cereus strain ATCC 14579 23S ribosomal RNA g...  5382       0.0  
+EU093518.1 Synthetic construct Bacillus anthracis clone FLH258697...  5382       0.0  
+CP000904.1 Bacillus weihenstephanensis KBAB4 plasmid pBWB401, com...  5367       0.0  
+NR_076205.1 Bacillus anthracis strain Ames 23S ribosomal RNA gene...  5365       0.0  
+EF410518.1 Synthetic construct Bacillus anthracis clone FLH248853...  5360       0.0  
+EF410733.1 Synthetic construct Bacillus anthracis clone FLH248852...  5349       0.0  
+AF267885.1 Bacillus cereus strain ATCC25621 23S ribosomal RNA gen...  5330       0.0  
+GU266560.1 Bacillus thuringiensis strain BMB1152 S-layer protein ...  5328       0.0  
+AF267881.1 Bacillus thuringiensis strain 4Q281 23S ribosomal RNA ...  5326       0.0  
+X89895.1 B.thuringiensis DNA for 16S and 23S rRNA and spacer region   5326       0.0  
+AB099298.1 Bacillus thuringiensis genes for non hemolytic enterot...  5325       0.0  
+NR_102588.1 Bacillus thuringiensis strain Bt407 23S ribosomal RNA...  5321       0.0  
+EF410461.1 Synthetic construct Bacillus anthracis clone FLH248851...  5321       0.0  
+CP020744.1 Bacillus mycoides strain Gnyt1 plasmid unnamed1, compl...  5313       0.0  
+EF410962.1 Synthetic construct Bacillus anthracis clone FLH248904...  5310       0.0  
+AB050631.1 Bacillus cereus 23S ribosomal RNA, partial sequence        5310       0.0  
+EF410343.1 Synthetic construct Bacillus anthracis clone FLH248849...  5308       0.0  
+NR_121962.1 Bacillus toyonensis strain BCT-7112 23S ribosomal RNA...  5297       0.0  
+EF410284.1 Synthetic construct Bacillus anthracis clone FLH248847...  5288       0.0  
+AF067645.1 Bacillus cereus homoserine O-acetyltransferase homolog...  5284       0.0  
+X64645.1 B.anthracis gene for 23S rRNA                                5276       0.0  
+S43429.1 23S ribosomal RNA [Bacillus cereus, NCTC 11143, Genomic,...  5273       0.0  
+AF267883.1 Bacillus mycoides strain ATCC10206 23S ribosomal RNA g...  5269       0.0  
+NR_076551.1 Bacillus weihenstephanensis strain KBAB4 23S ribosoma...  5249       0.0  
+EU093814.1 Synthetic construct Bacillus anthracis clone FLH263080...  5216       0.0  
+NR_076523.1 Bacillus cytotoxicus strain NVH 391-98 23S ribosomal ...  5188       0.0  
+EF411043.1 Synthetic construct Bacillus anthracis clone FLH248900...  5171       0.0  
+DQ097395.1 Bacillus thuringiensis serovar kurstaki strain 8010 AT...  5168       0.0  
+EF410180.1 Synthetic construct Bacillus anthracis clone FLH248844...  5138       0.0  
+EF410376.1 Synthetic construct Bacillus anthracis clone FLH248846...  5136       0.0  
+X53507.1 Bacillus cereus gene for oligo-1,6-glucosidase (EC 3.2.1...  5131       0.0  
+FR775424.1 Bacillus sp. C3 cyp gene for cytochrome P450               5110       0.0  
+EU093842.1 Synthetic construct Bacillus anthracis clone FLH258694...  5105       0.0  
+EF410893.1 Synthetic construct Bacillus anthracis clone FLH248896...  5099       0.0  
+AJ310096.1 Bacillus cereus 23S rRNA gene, type strain LMG 6923*       5097       0.0  
+EF410609.1 Synthetic construct Bacillus anthracis clone FLH248894...  5088       0.0  
+EF410927.1 Synthetic construct Bacillus anthracis clone FLH248892...  5083       0.0  
+EU925144.1 Bacillus thuringiensis serovar kurstaki strain VBTS 24...  5055       0.0  
+EF410676.1 Synthetic construct Bacillus anthracis clone FLH248842...  5053       0.0  
+EU093471.1 Synthetic construct Bacillus anthracis clone FLH258693...  5048       0.0  
+AJ310738.1 Bacillus thuringiensis 23S rRNA gene, type strain LMG ...  5038       0.0  
+EF411018.1 Synthetic construct Bacillus anthracis clone FLH248890...  5022       0.0  
+EF410276.1 Synthetic construct Bacillus anthracis clone FLH248837...  5016       0.0  
+AJ310099.1 Bacillus cereus 23S rRNA gene, ATCC 14893 = CIP 5832       5012       0.0  
+AJ310101.1 Bacillus cereus biovar toyoi 23S rRNA gene, CNCM I-101...  4998       0.0  
+AJ310097.1 Bacillus mycoides 23S rRNA gene, type strain DSM 2048*     4996       0.0  
+GQ243224.1 Bacillus cereus ATCC 14579 putative major facilitator ...  4990       0.0  
+KT865843.1 Bacillus sp. ALBL_152 23S ribosomal RNA gene, partial ...  4977       0.0  
+EF410419.1 Synthetic construct Bacillus anthracis clone FLH248835...  4966       0.0  
+EF410551.1 Synthetic construct Bacillus anthracis clone FLH248833...  4955       0.0  
+EU093622.1 Synthetic construct Bacillus anthracis clone FLH263065...  4944       0.0  
+EF410178.1 Synthetic construct Bacillus anthracis clone FLH248829...  4944       0.0  
+EU093678.1 Synthetic construct Bacillus anthracis clone FLH258692...  4939       0.0  
+EU093758.1 Synthetic construct Bacillus anthracis clone FLH258691...  4883       0.0  
+EF410908.1 Synthetic construct Bacillus anthracis clone FLH248883...  4878       0.0  
+EF410207.1 Synthetic construct Bacillus anthracis clone FLH248819...  4855       0.0  
+EF410260.1 Synthetic construct Bacillus anthracis clone FLH248818...  4844       0.0  
+EU093534.1 Synthetic construct Bacillus anthracis clone FLH263061...  4811       0.0  
+EF410309.1 Synthetic construct Bacillus anthracis clone FLH248814...  4811       0.0  
+EF410924.1 Synthetic construct Bacillus anthracis clone FLH248881...  4806       0.0  
+Y11139.1 B.cereus DNA for ORF1, ORF2 and ORF3 (2994 bp)               4806       0.0  
+EU093519.1 Synthetic construct Bacillus anthracis clone FLH258690...  4795       0.0  
+EF410189.1 Synthetic construct Bacillus anthracis clone FLH248808...  4772       0.0  
+EF075932.1 Bacillus cereus strain 905 nitric oxidate synthase, ma...  4771       0.0  
+FJ864729.1 Bacillus cereus strain BC002 NADPH-cytochrome reductas...  4748       0.0  
+EF410549.1 Synthetic construct Bacillus anthracis clone FLH248806...  4734       0.0  
+EF410525.1 Synthetic construct Bacillus anthracis clone FLH248804...  4721       0.0  
+EF410321.1 Synthetic construct Bacillus anthracis clone FLH248802...  4717       0.0  
+EU093540.1 Synthetic construct Bacillus anthracis clone FLH258687...  4704       0.0  
+DQ157747.1 Bacillus thuringiensis FumA (fumA), PdaA (pdaA), and A...  4698       0.0  
+JQ728650.1 Bacillus thuringiensis serovar mexicanensis strain IEB...  4693       0.0  
+AJ010139.1 Bacillus cereus yfjS, alk1 genes and partial fumA gene     4682       0.0  
+JQ728642.1 Bacillus thuringiensis serovar vazensis strain IEBC-T6...  4676       0.0  
+EU093600.1 Synthetic construct Bacillus anthracis clone FLH248798...  4673       0.0  
+JQ728638.1 Bacillus thuringiensis serovar bolivia strain IEBC-T63...  4671       0.0  
+JQ728644.1 Bacillus thuringiensis serovar sooncheon strain IEBC-T...  4660       0.0  
+GU978992.1 Bacillus thuringiensis serovar monterrey strain IEBC-T...  4654       0.0  
+GU978976.1 Bacillus thuringiensis serovar pondicheriensis strain ...  4654       0.0  
+JQ728651.1 Bacillus thuringiensis serovar kurstaki strain HD1 pyr...  4652       0.0  
+CP015251.1 Bacillus thuringiensis Bt18247 plasmid p174778, comple...  4645       0.0  
+EF075931.1 Bacillus cereus strain 905 conserved hypothetical prot...  4630       0.0  
+EU093683.1 Synthetic construct Bacillus anthracis clone FLH248796...  4628       0.0  
+JQ728639.1 Bacillus weihenstephanensis strain WSBC 10001 pyruvate...  4626       0.0  
+KJ872578.1 Bacillus anthracis strain IVRI surface protein EA1 (ea...  4621       0.0  
+JQ728643.1 Bacillus thuringiensis serovar kim strain IEBC-T52 001...  4621       0.0  
+JQ728641.1 Bacillus weihenstephanensis strain WSBC 10204 pyruvate...  4621       0.0  
+JQ728647.1 Bacillus thuringiensis serovar navarrensis strain IEBC...  4615       0.0  
+DQ019312.1 Bacillus cereus strain F4430/73 non-hemolytic enteroto...  4614       0.0  
+JX274541.1 Bacillus anthracis strain 34F2 surface protein EA1 (ea...  4610       0.0  
+JQ728649.1 Bacillus weihenstephanensis strain WSBC 10067 pyruvate...  4604       0.0  
+HM778161.1 Bacillus cereus strain CYPPB-1 bifunctional CYP450 mon...  4602       0.0  
+AJ272497.1 Bacillus anthracis sigma B operon                          4597       0.0  
+AF387344.1 Bacillus cereus alanine spore germination operon, comp...  4580       0.0  
+CP016590.1 Bacillus thuringiensis strain KNU-07 plasmid pBTKNU07-...  4575       0.0  
+AJ007952.1 Bacillus cereus celR, bct499b, chrA, ydjC and celF gen...  4566       0.0  
+EF411050.1 Synthetic construct Bacillus anthracis clone FLH248879...  4562       0.0  
+EU093640.1 Synthetic construct Bacillus anthracis clone FLH248794...  4538       0.0  
+LC128536.1 Bacillus thuringiensis serovar israelensis plasmid pBT...  4527       0.0  
+CP013279.1 Bacillus thuringiensis serovar israelensis strain AM65...  4527       0.0  
+CP003766.1 Bacillus thuringiensis HD-789 plasmid pBTHD789-3, comp...  4527       0.0  
+AL731825.1 Bacillus thuringiensis subsp. israelensis plasmid pBtoxis  4527       0.0  
+CP018741.1 Bacillus cereus strain FORC_047 plasmid pFORC47_1, com...  4519       0.0  
+EF410487.1 Synthetic construct Bacillus anthracis clone FLH248792...  4518       0.0  
+EF410873.1 Synthetic construct Bacillus anthracis clone FLH248875...  4495       0.0  
+EF410213.1 Synthetic construct Bacillus anthracis clone FLH248871...  4495       0.0  
+EF410359.1 Synthetic construct Bacillus anthracis clone FLH248869...  4477       0.0  
+CP020745.1 Bacillus mycoides strain Gnyt1 plasmid unnamed2, compl...  4473       0.0  
+EU093508.1 Synthetic construct Bacillus anthracis clone FLH258685...  4473       0.0  
+CP013276.2 Bacillus thuringiensis serovar israelensis strain AM65...  4471       0.0  
+CP009349.1 Bacillus thuringiensis HD1002 plasmid 1, complete sequ...  4471       0.0  
+DQ486135.1 Bacillus cereus strain SPV PHA biosynthetic gene clust...  4470       0.0  
+EU093729.1 Synthetic construct Bacillus anthracis clone FLH258684...  4468       0.0  
+JQ728645.1 Bacillus weihenstephanensis strain WSBC 10365 pyruvate...  4466       0.0  
+HM626300.1 Bacillus thuringiensis serovar monterrey strain IEBC-T...  4466       0.0  
+JQ728646.1 Bacillus weihenstephanensis strain WSBC 10295 pyruvate...  4460       0.0  
+EU093477.1 Synthetic construct Bacillus anthracis clone FLH258683...  4457       0.0  
+EF410580.1 Synthetic construct Bacillus anthracis clone FLH248861...  4446       0.0  
+HM626301.1 Bacillus thuringiensis serovar brasilensis strain IEBC...  4444       0.0  
+EF410499.1 Synthetic construct Bacillus anthracis clone FLH248863...  4440       0.0  
+DQ402422.1 Bacillus cereus strain F4430/73 res operon, complete s...  4440       0.0  
+EF410665.1 Synthetic construct Bacillus anthracis clone FLH248859...  4429       0.0  
+EU093666.1 Synthetic construct Bacillus anthracis clone FLH263073...  4423       0.0  
+EF410809.1 Synthetic construct Bacillus anthracis clone FLH248877...  4420       0.0  
+HM626299.1 Bacillus thuringiensis serovar pondicheriensis strain ...  4416       0.0  
+FJ694160.1 Synthetic construct Bacillus anthracis clone FLH263072...  4412       0.0  
+EU093662.1 Synthetic construct Bacillus anthracis clone FLH258680...  4407       0.0  
+EU093591.1 Synthetic construct Bacillus anthracis clone FLH258681...  4407       0.0  
+EF410275.1 Synthetic construct Bacillus anthracis clone FLH248857...  4407       0.0  
+X12854.1 B. cereus genes for phospholipase C and sphingomyelinase C   4401       0.0  
+HM626296.1 Bacillus thuringiensis serovar pingluonsis strain IEBC...  4394       0.0  
+EF411056.1 Synthetic construct Bacillus anthracis clone FLH248938...  4390       0.0  
+EF410878.1 Synthetic construct Bacillus anthracis clone FLH248936...  4390       0.0  
+EF410407.1 Synthetic construct Bacillus anthracis clone FLH248855...  4390       0.0  
+FJ866634.1 Bacillus sp. 1N21 PlcR (plcR) and PapR (papR) genes, c...  4385       0.0  
+EF410718.1 Synthetic construct Bacillus anthracis clone FLH248854...  4368       0.0  
+EU093608.1 Synthetic construct Bacillus anthracis clone FLH258679...  4362       0.0  
+CP003693.1 Bacillus thuringiensis MC28 plasmid pMC319, complete s...  4357       0.0  
+DQ537381.1 Bacillus thuringiensis serovar kurstaki strain 1.175 G...  4335       0.0  
+EU093857.1 Synthetic construct Bacillus anthracis clone FLH258682...  4327       0.0  
+EF410714.1 Synthetic construct Bacillus anthracis clone FLH248850...  4318       0.0  
+EF410890.1 Synthetic construct Bacillus anthracis clone FLH248932...  4316       0.0  
+EF410458.1 Synthetic construct Bacillus anthracis clone FLH248848...  4301       0.0  
+GU573414.1 Bacillus cereus strain 53 chitinase B gene, complete cds   4298       0.0  
+EF410171.1 Synthetic construct Bacillus anthracis clone FLH248845...  4290       0.0  
+GU978984.1 Bacillus thuringiensis serovar pingluonsis strain IEBC...  4277       0.0  
+EF410804.1 Synthetic construct Bacillus anthracis clone FLH248930...  4274       0.0  
+EF410941.1 Synthetic construct Bacillus anthracis clone FLH248928...  4272       0.0  
+EF410903.1 Synthetic construct Bacillus anthracis clone FLH248926...  4255       0.0  
+EF410415.1 Synthetic construct Bacillus anthracis clone FLH248843...  4244       0.0  
+JQ707952.1 Bacillus cereus strain OPF-0031 pullulanase gene, comp...  4220       0.0  
+EF410836.1 Synthetic construct Bacillus anthracis clone FLH248924...  4218       0.0  
+EF410259.1 Synthetic construct Bacillus anthracis clone FLH248840...  4191       0.0  
+EU093795.1 Synthetic construct Bacillus anthracis clone FLH258677...  4180       0.0  
+CP015252.1 Bacillus thuringiensis Bt18247 plasmid p130548 sequence    4170       0.0  
+AF421888.1 Bacillus thuringiensis zinc-metalloprotease (inhA2) ge...  4159       0.0  
+HQ336744.1 Bacillus cereus strain F4430/73 lactate dehydrogenase ...  4152       0.0  
+EF410983.1 Synthetic construct Bacillus anthracis clone FLH248918...  4141       0.0  
+EF410740.1 Synthetic construct Bacillus anthracis clone FLH248838...  4119       0.0  
+EF410381.1 Synthetic construct Bacillus anthracis clone FLH248836...  4113       0.0  
+AY291534.1 Bacillus anthracis strain dANR DNA gyrase subunit A (g...  4111       0.0  
+EF410991.1 Synthetic construct Bacillus anthracis clone FLH248913...  4091       0.0  
+AY291535.1 Bacillus cereus strain ATCC 15816 DNA gyrase subunit A...  4078       0.0  
+CP019231.1 Bacillus thuringiensis strain YGD22-03 plasmid pYGD30,...  4076       0.0  
+CP002510.1 Bacillus thuringiensis serovar finitimus YBT-020 plasm...  4074       0.0  
+EF410274.1 Synthetic construct Bacillus anthracis clone FLH248832...  4045       0.0  
+EU093813.1 Synthetic construct Bacillus anthracis clone FLH258676...  4036       0.0  
+JF312049.1 Bacillus thuringiensis YBT-1518 gnt operon, complete s...  4032       0.0  
+EF410892.1 Synthetic construct Bacillus anthracis clone FLH248911...  4030       0.0  
+CP017574.1 Bacillus thuringiensis strain SCG04-02 plasmid PSCG364...  4026       0.0  
+KP987200.1 Bacillus cereus strain R75E collagenase gene, complete...  4012       0.0  
+EF411007.1 Synthetic construct Bacillus anthracis clone FLH248909...  3997       0.0  
+GU905015.1 Bacillus sp. TW1 16S ribosomal RNA gene, partial seque...  3989       0.0  
+Z84594.1 Bacillus thuringiensis 16S rRNA gene, strain WS 2617         3986       0.0  
+Z84593.1 Bacillus thuringiensis 16S rRNA gene, strain WS 2614         3986       0.0  
+KT593866.1 Bacillus cereus strain Col15 collagenase gene, complet...  3973       0.0  
+EF410970.1 Synthetic construct Bacillus anthracis clone FLH248907...  3969       0.0  
+Z84589.1 Bacillus cereus 16S rRNA gene, strain WSBC10030              3960       0.0  
+EF410985.1 Synthetic construct Bacillus anthracis clone FLH248905...  3958       0.0  
+EF410770.1 Synthetic construct Bacillus anthracis clone FLH248903...  3958       0.0  
+AJ000394.1 Bacillus cereus celR (partial), orf2, chrA, ydjC, celF...  3954       0.0  
+EU093652.1 Synthetic construct Bacillus anthracis clone FLH258675...  3941       0.0  
+EF411045.1 Synthetic construct Bacillus anthracis clone FLH248901...  3941       0.0  
+EF410634.1 Synthetic construct Bacillus anthracis clone FLH248830...  3941       0.0  
+EU093657.1 Synthetic construct Bacillus anthracis clone FLH258674...  3923       0.0  
+EF410945.1 Synthetic construct Bacillus anthracis clone FLH248899...  3923       0.0  
+EF410997.1 Synthetic construct Bacillus anthracis clone FLH248895...  3914       0.0  
+GU905014.1 Bacillus sp. CP8 16S ribosomal RNA gene, partial seque...  3904       0.0  
+EF410396.1 Synthetic construct Bacillus anthracis clone FLH248824...  3903       0.0  
+EF410477.1 Synthetic construct Bacillus anthracis clone FLH248826...  3901       0.0  
+JX218993.1 Bacillus cereus strain GXBC-3 PulC (pulC) gene, comple...  3899       0.0  
+EF410840.1 Synthetic construct Bacillus anthracis clone FLH248891...  3892       0.0  
+EF410533.1 Synthetic construct Bacillus anthracis clone FLH248822...  3892       0.0  
+AY224695.1 Bacillus thuringiensis serovar canadensis transcriptio...  3882       0.0  
+DQ301439.1 Bacillus weihenstephanensis strain KBAB4 GdpD (gdpD) g...  3851       0.0  
+DQ301425.1 Bacillus weihenstephanensis strain WSBC10204 GdpD (gdp...  3851       0.0  
+EU093461.1 Synthetic construct Bacillus anthracis clone FLH255729...  3836       0.0  
+EF411033.1 Synthetic construct Bacillus anthracis clone FLH248889...  3836       0.0  
+Z84591.1 Bacillus mycoides 16S rRNA gene, strain MWS5303-1-4          3832       0.0  
+EF410258.1 Synthetic construct Bacillus anthracis clone FLH248813...  3831       0.0  
+EF410449.1 Synthetic construct Bacillus anthracis clone FLH248815...  3829       0.0  
+Z84590.1 Bacillus cereus 16S rRNA gene, strain WSBC10206              3825       0.0  
+EU093733.1 Synthetic construct Bacillus anthracis clone FLH258673...  3819       0.0  
+EF410165.1 Synthetic construct Bacillus anthracis clone FLH248811...  3819       0.0  
+EF410766.1 Synthetic construct Bacillus anthracis clone FLH248885...  3808       0.0  
+EF410484.1 Synthetic construct Bacillus anthracis clone FLH248807...  3808       0.0  
+FJ694151.1 Synthetic construct Bacillus anthracis clone FLH258671...  3803       0.0  
+DQ301432.1 Bacillus weihenstephanensis strain WSBC10206 GdpD (gdp...  3801       0.0  
+X64141.1 B.cereus genes plc and sph                                   3797       0.0  
+Y09719.1 B.cereus bct1 gene and glr gene                              3795       0.0  
+X55436.1 B. thuringiensis InA gene for immune inhibitor A             3788       0.0  
+EF411024.1 Synthetic construct Bacillus anthracis clone FLH248882...  3779       0.0  
+EF410781.1 Synthetic construct Bacillus anthracis clone FLH248880...  3775       0.0  
+AJ010128.1 Bacillus cereus bc297a, alkD genes and partial glyS gene   3768       0.0  
+JX142187.1 Bacillus cereus strain FC11 3-keto-acyl-CoA reductase ...  3764       0.0  
+D00513.1 Bacillus cereus ORF genes and glnA gene for glutamine sy...  3764       0.0  
+CP009966.1 Bacillus cereus E33L plasmid pBCO_2, complete sequence     3759       0.0  
+EU093734.1 Synthetic construct Bacillus anthracis clone FLH258669...  3759       0.0  
+CP000042.1 Bacillus cereus E33L plasmid pE33L54, complete sequence    3759       0.0  
+AJ237785.1 Bacillus cereus ATCC 14579 21.2 kb chromosomal locus c...  3757       0.0  
+AJ007795.1 Bacillus cereus yndD, yndE, yndF, proC, yfnA, orf6, ss...  3757       0.0  
+JX898865.1 Bacillus thuringiensis YBT-1518 metalloproteinase (bmp...  3753       0.0  
