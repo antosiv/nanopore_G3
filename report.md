@@ -34,6 +34,14 @@ blast запускался локально - для веб-версии сли�
 Скорее всего бактерия принадлежит к одному из штаммов Bacillus anthracis -
 возбудитель сибирской язвы  
 Результат в файле blast_result_table_only.out
+
+Графики, отображающие процесс сборки последовательности, представлены ниже. 
+![best_spades](./001_best_spades_graph.png)  
+![overlap_removed](./002_overlaps_removed.png) 
+![long_read_assembly](./003_long_read_assembly.png) 
+![bridges_applied](./004_bridges_applied.png) 
+![final_clean](./005_final_clean.png) 
+![rotated](./006_rotated.png) 
 ### 5
 ![bandage1](./bandage1.jpg)  
 ![bandage2](./bandage2.jpg)  
